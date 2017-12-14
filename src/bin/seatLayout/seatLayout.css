@@ -115,3 +115,6 @@
   .seat-selection .seat-indicators .indicator span.not-allowed{
     background: #dedcdc;    
   }
+  .seat-area-row{
+    white-space: nowrap;
+  }
